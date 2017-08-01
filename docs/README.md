@@ -55,7 +55,7 @@
 
 ### Who financially sponsored this event?
 
-![Greylock Partners Logo](./images/greylock_partners_logo)
+![Greylock Partners Logo](./images/greylock_partners_logo.png)
 
 …hosted the event space and provided dinner for the participants of the Salon.
 
@@ -63,4 +63,4 @@
 
 …paid for the graphic recording artist and the first audio transcription.
 
-Costs: ~$1700
+Total costs: ~$1700
