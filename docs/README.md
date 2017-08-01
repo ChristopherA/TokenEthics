@@ -52,3 +52,15 @@
 ![Graphic Recording of Salon Event](./images/tokenethics_graphic_recording.jpg)
 
 (See <a href="./images/tokenethics_graphic_recording.jpg" target="_new">full-sized version</a>)
+
+### Who financially sponsored this event?
+
+![Greylock Partners Logo](./images/greylock_partners_logo)
+
+…hosted the event space and provided dinner for the participants of the Salon.
+
+![Graphic Recording of Salon Event](./images/blockstream_logo.png)
+
+…paid for the graphic recording artist and the first audio transcription.
+
+Costs: ~$1700
