@@ -1,4 +1,10 @@
-name: "#TokenEthics"
-title: "#TokenEthics"
-project: "#TokenEthics"
+name: name
+title: title
+project: project
+subtitle: subtitle
+description: description
+author: Christopher Allen
+email: ChristopherA@LifeWithAlacrity.com
+twitter_username: ChristopherA
+github_username:  ChristopherA
 theme: jekyll-theme-cayman
