@@ -47,6 +47,6 @@
 
 ### What did we talk about?
 
-![Graphic Recording of Salon Event](../images/tokenethics_graphic_recording.jpg)
+![Graphic Recording of Salon Event](./images/tokenethics_graphic_recording.jpg)
 
 (See <a href="./images/tokenethics_graphic_recording.jpg" target="_new">full-sized version</a>)
