@@ -49,9 +49,7 @@
 
 ### Our Advance Readings
 
-We used a Google Doc for advance readings and to share notes before the Salon event:
-
-https://docs.google.com/document/d/1rFwP_0LvAwo17ZI80jn_vE68NjrNxKrBSRPRuTEz678
+We used a [Google Doc](https://docs.google.com/document/d/1rFwP_0LvAwo17ZI80jn_vE68NjrNxKrBSRPRuTEz678) for advance readings and to share notes before our Salon event.
 
 ### What did we talk about?
 
