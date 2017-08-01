@@ -39,12 +39,14 @@
 
 ### Who was represented at the first Salon?
 
-![Who is Here? List](../images/tokenethics_who_is_here.jpg)
+![Who is Here? List](./images/tokenethics_who_is_here.jpg)
 
 ### What were the guidelines for our conversation?
 
-![Guidelines List](../images/tokenethics_guidelines.jpg)
+![Guidelines List](./images/tokenethics_guidelines.jpg)
 
 ### What did we talk about?
 
 ![Graphic Recording of Salon Event](../images/tokenethics_graphic_recording.jpg)
+
+(See <a href="./images/tokenethics_graphic_recording.jpg" target="_new">full-sized version</a>)
