@@ -1,10 +1,10 @@
-name: name
 title: "#TokenEthics"
 project: ""#TokenEthics Home Page"
-subtitle: subtitle
 description: "Documents & Community Discussions on #TokenEthics"
 author: Christopher Allen
 email: ChristopherA@LifeWithAlacrity.com
 twitter_username: ChristopherA
 github_username:  ChristopherA
+show_downloads: false
+google_analytics:
 theme: jekyll-theme-cayman
