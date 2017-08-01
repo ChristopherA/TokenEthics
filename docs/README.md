@@ -43,7 +43,7 @@
 
 ### What were the guidelines for our conversation?
 
-<div style="border-style: solid;"><div style="margin: 5px 5px 5px 5px;"><font size="+1">&ldquo;The <b>Chatham House Rule</b> reads as follows: When a meeting, or part thereof, is held under the <b>Chatham House Rule</b>, participants are free to use the information received, but neither the identity nor the affiliation of the speaker(s), nor that of any other participant, may be revealed.&rdquo;</font><p><a  href="https://www.chathamhouse.org/about/chatham-house-rule">Chatham House Rule | Chatham House</a><br/><span style="white-space:nowrap"><cite>https://www.chathamhouse.org/about/chatham-house-rule</cite></span></p></div></div>
+<blockquote style="border-style: solid;"><div style="margin: 5px 5px 5px 5px;"><font size="+1">&ldquo;The <b>Chatham House Rule</b> reads as follows: When a meeting, or part thereof, is held under the <b>Chatham House Rule</b>, participants are free to use the information received, but neither the identity nor the affiliation of the speaker(s), nor that of any other participant, may be revealed.&rdquo;</font><p><a  href="https://www.chathamhouse.org/about/chatham-house-rule">Chatham House Rule | Chatham House</a><br/><span style="white-space:nowrap"><cite>https://www.chathamhouse.org/about/chatham-house-rule</cite></span></p></div></blockquote>
 
 ![Guidelines List](./images/tokenethics_guidelines.jpg)
 
