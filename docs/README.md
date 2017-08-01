@@ -37,11 +37,13 @@
 <blockquote class="twitter-tweet" data-lang="en" hide_thread="true" data-conversation="none"><p lang="en" dir="ltr">Currently thinking 1st <a href="https://twitter.com/hashtag/Tokenethics?src=hash">#Tokenethics</a> Roundtable July 26th in SF. Small group, Chatham House rules w/transcripts, focus on ethics not past.</p>&mdash; Christopher Allen (@ChristopherA) <a href="https://twitter.com/ChristopherA/status/885900718485381120">July 14, 2017</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-### Who was represented at the first Salon?
+### What communities were represented at the first Salon?
 
 ![Who is Here? List](./images/tokenethics_who_is_here.jpg)
 
 ### What were the guidelines for our conversation?
+
+<div style="border-style: solid;"><div style="margin: 5px 5px 5px 5px;"><font size="+1">&ldquo;The <b>Chatham House Rule</b> reads as follows: When a meeting, or part thereof, is held under the <b>Chatham House Rule</b>, participants are free to use the information received, but neither the identity nor the affiliation of the speaker(s), nor that of any other participant, may be revealed.&rdquo;</font><p><a  href="https://www.chathamhouse.org/about/chatham-house-rule">Chatham House Rule | Chatham House</a><br/><span style="white-space:nowrap"><cite>https://www.chathamhouse.org/about/chatham-house-rule</cite></span></p></div></div>
 
 ![Guidelines List](./images/tokenethics_guidelines.jpg)
 
