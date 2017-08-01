@@ -47,6 +47,10 @@
 
 ![Guidelines List](./images/tokenethics_guidelines.jpg)
 
+### Our Advance Reading
+
+<iframe src="https://docs.google.com/document/d/1rFwP_0LvAwo17ZI80jn_vE68NjrNxKrBSRPRuTEz678/pub?embedded=true"></iframe>
+
 ### What did we talk about?
 
 ![Graphic Recording of Salon Event](./images/tokenethics_graphic_recording.jpg)
