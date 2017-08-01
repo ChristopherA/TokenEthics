@@ -47,9 +47,11 @@
 
 ![Guidelines List](./images/tokenethics_guidelines.jpg)
 
-### Our Advance Reading
+### Our Advance Readings
 
-<iframe src="https://docs.google.com/document/d/1rFwP_0LvAwo17ZI80jn_vE68NjrNxKrBSRPRuTEz678/pub?embedded=true"></iframe>
+We used a Google Doc for advance readings and to share notes before the Salon event:
+
+https://docs.google.com/document/d/1rFwP_0LvAwo17ZI80jn_vE68NjrNxKrBSRPRuTEz678
 
 ### What did we talk about?
 
