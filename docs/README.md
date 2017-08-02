@@ -23,7 +23,7 @@
 
 ## Events
 
-### The first Face-to-Face Salon
+### The first face-to-face Salon on July 26, 2017
 
 <blockquote class="twitter-tweet" data-lang="en" hide_thread="true" data-conversation="none"><p lang="en" dir="ltr">If anyone is interested in having F2F evening roundtable in SF Bay Area on the topic of <a href="https://twitter.com/hashtag/tokenethics?src=hash">#tokenethics</a> and design (not legality!) let me know.</p>&mdash; Christopher Allen (@ChristopherA) <a href="https://twitter.com/ChristopherA/status/885646222844846080">July 13, 2017</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -54,7 +54,7 @@ We used a [Google Doc](https://docs.google.com/document/d/1rFwP_0LvAwo17ZI80jn_v
 ### Salon producer/facilitator, participants & contributors
 
 This salon was produced and facilitated by:
-* Christopher Allen ([@ChristopherA]), Principal Architect - Blockstream; Host #RebootingWebOfTrust
+* Christopher Allen ([@ChristopherA](http://twitter.com/ChristopherA)), Principal Architect - Blockstream; Host #RebootingWebOfTrust
 
 Participants included:
 * Angus Champion de Crespigny ([@anguschampion](https://twitter.com/anguschampion))
@@ -104,7 +104,7 @@ Total costs: ~$2100
 <div id="mc_embed_signup">
 <form action="//TokenEthics.us16.list-manage.com/subscribe/post?u=770bd4e56d05b0c99808a4b59&amp;id=e754fd939f" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
-	<h2>Subscribe to our mailing list</h2>
+	<h2>Subscribe to the #TokenEthics Announcements list…</h2>
 <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
 <div class="mc-field-group">
 	<label for="mce-EMAIL">Email Address  <span class="asterisk">*</span>
