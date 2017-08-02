@@ -55,6 +55,14 @@ We used a [Google Doc](https://docs.google.com/document/d/1rFwP_0LvAwo17ZI80jn_v
 
 (See <a href="./images/tokenethics_salon_2017-07-25_graphic_recording.jpg" target="new"> full-sized version</a>)
 
+### Key Insights & Quotes
+
+*(Coming Soon)*
+
+### Chatham-Style transcript
+
+*(Coming Soon)*
+
 ### Salon producer/facilitator, participants & contributors
 
 This salon was produced and facilitated by:
