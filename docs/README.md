@@ -39,7 +39,7 @@
 
 ### What communities were represented at the first Salon?
 
-![Who is Here? List](./images/tokenethics_who_is_here.jpg)
+![Who is Here? List](./images/tokenethics_salon_2017-07-25_who_is_here.jpg)
 
 ### What were the guidelines for our conversation?
 
