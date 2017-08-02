@@ -92,8 +92,6 @@ Total costs: ~$2100
 
 ## Wish to be involved in future events?
 
-### Announcements List
-
 <!-- Begin MailChimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
 <style type="text/css">
@@ -104,7 +102,7 @@ Total costs: ~$2100
 <div id="mc_embed_signup">
 <form action="//TokenEthics.us16.list-manage.com/subscribe/post?u=770bd4e56d05b0c99808a4b59&amp;id=e754fd939f" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
-	<h2>Subscribe to the #TokenEthics Announcements list…</h2>
+	<h3>Subscribe to the #TokenEthics Announcements list…</h3>
 <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
 <div class="mc-field-group">
 	<label for="mce-EMAIL">Email Address  <span class="asterisk">*</span>
