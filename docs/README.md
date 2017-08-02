@@ -37,7 +37,7 @@ We are using the Twitter hashtag [#TokenEvents](https://twitter.com/search?q=%23
 
 ### Our Advance Readings
 
-We used a *[Google Doc](https://docs.google.com/document/d/1rFwP_0LvAwo17ZI80jn_vE68NjrNxKrBSRPRuTEz678)* for advance readings and to share notes before our Salon event.
+We used a *[Shared Google Doc on #TokenEthics](https://docs.google.com/document/d/1rFwP_0LvAwo17ZI80jn_vE68NjrNxKrBSRPRuTEz678)* for advance readings and to share notes before our Salon event.
 
 ### What communities were represented at the first Salon?
 
