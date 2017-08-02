@@ -45,7 +45,7 @@
 
 <blockquote style="border-style: solid;"><div style="margin: 5px 5px 5px 5px;"><font size="+1">&ldquo;The <b>Chatham House Rule</b> reads as follows: When a meeting, or part thereof, is held under the <b>Chatham House Rule</b>, participants are free to use the information received, but neither the identity nor the affiliation of the speaker(s), nor that of any other participant, may be revealed.&rdquo;</font><p><a  href="https://www.chathamhouse.org/about/chatham-house-rule">Chatham House Rule | Chatham House</a><br/><span style="white-space:nowrap"><cite>https://www.chathamhouse.org/about/chatham-house-rule</cite></span></p></div></blockquote>
 
-![Guidelines List](./images/tokenethics_salon_2017-07-25_guidelines.jpg)
+![#TokenEthics Guidelines List](./images/tokenethics_salon_2017-07-25_guidelines.jpg)
 
 ### Our Advance Readings
 
@@ -53,13 +53,13 @@ We used a [Google Doc](https://docs.google.com/document/d/1rFwP_0LvAwo17ZI80jn_v
 
 ### What did we talk about?
 
-![Graphic Recording of Salon Event](./images/tokenethics_salon_2017-07-25_graphic_recording.jpg)
+![#TokenEthics Salon Graphic Recording ](./images/tokenethics_salon_2017-07-25_graphic_recording.jpg)
 
 (See <a href="./images/tokenethics_salon_2017-07-25_graphic_recording.jpg" target="new"> full-sized version</a>)
 
 ### Salon producer/facilitator, participants & contributors
 
-![Graphic Recording of Salon Event](./images/tokenethics_salon_2017-07-25_participants.jpg)
+![#TokenEthics Salon Participants](./images/tokenethics_salon_2017-07-25_participants.jpg)
 
 ### Who financially sponsored this event?
 
