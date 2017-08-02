@@ -86,7 +86,7 @@ Participants included:
 Additional contributors:
 * Anthony Weeks ([@Weeksonian](https://twitter.com/Weeksonian)) - graphic recorder
 * Shannon Appelcline ([@Applecline](https://twitter.com/Applecline)) - editor
-* Vlad Zamfir ([@VladZamphir](https://twitter.com/VladZamphir)) - advance reading
+* Vlad Zamfir ([@VladZamfir](https://twitter.com/VladZamfir)) - advance reading
 
 ![#TokenEthics Salon Participants](./images/tokenethics_salon_2017-07-25_participants.jpg)
 
