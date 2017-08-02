@@ -35,6 +35,10 @@ We are using the Twitter hashtag [#TokenEvents](https://twitter.com/search?q=%23
 <blockquote class="twitter-tweet" data-lang="en" hide_thread="true" data-conversation="none"><p lang="en" dir="ltr">Currently thinking 1st <a href="https://twitter.com/hashtag/Tokenethics?src=hash">#Tokenethics</a> Roundtable July 26th in SF. Small group, Chatham House rules w/transcripts, focus on ethics not past.</p>&mdash; Christopher Allen (@ChristopherA) <a href="https://twitter.com/ChristopherA/status/885900718485381120">July 14, 2017</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+### Our Advance Readings
+
+We used a *[Google Doc](https://docs.google.com/document/d/1rFwP_0LvAwo17ZI80jn_vE68NjrNxKrBSRPRuTEz678)* for advance readings and to share notes before our Salon event.
+
 ### What communities were represented at the first Salon?
 
 ![Who is Here? List](./images/tokenethics_salon_2017-07-25_who_is_here.jpg)
@@ -44,10 +48,6 @@ We are using the Twitter hashtag [#TokenEvents](https://twitter.com/search?q=%23
 <blockquote style="border-style: solid;"><div style="margin: 5px 5px 5px 5px;"><font size="+1">&ldquo;The <b>Chatham House Rule</b> reads as follows: When a meeting, or part thereof, is held under the <b>Chatham House Rule</b>, participants are free to use the information received, but neither the identity nor the affiliation of the speaker(s), nor that of any other participant, may be revealed.&rdquo;</font><p><a  href="https://www.chathamhouse.org/about/chatham-house-rule">Chatham House Rule | Chatham House</a><br/><span style="white-space:nowrap"><cite>https://www.chathamhouse.org/about/chatham-house-rule</cite></span></p></div></blockquote>
 
 ![#TokenEthics Guidelines List](./images/tokenethics_salon_2017-07-25_guidelines.jpg)
-
-### Our Advance Readings
-
-We used a [Google Doc](https://docs.google.com/document/d/1rFwP_0LvAwo17ZI80jn_vE68NjrNxKrBSRPRuTEz678) for advance readings and to share notes before our Salon event.
 
 ### What did we talk about?
 
