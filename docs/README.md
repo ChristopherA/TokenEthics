@@ -21,6 +21,10 @@
 
 * Is it even possible to design systems that are more ethically principled, or can every design be abused?
 
+## Hashtag
+
+We are using the Twitter hashtag [#TokenEvents](https://twitter.com/search?q=%23TokenEthics) to make it easier to follow the topic.
+
 ## Events
 
 ### The first face-to-face Salon on July 26, 2017
