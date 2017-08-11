@@ -6,10 +6,10 @@ layout: post
 
 ## Salon producer/facilitator, participants & contributors
 
-_This discussion of Token Ethics and ICOs included just more than a dozen participants. They represented a variety of constituencies, including Bitcoin developers, Ethereum developers, technologists, the cryptocurrency exchange community, legacy institutional investors, cryptocurrency investment, miners, entrepreneurs, and venture capitalists._
+_This discussion of [#TokenEthics](http://www.TokenEthics.com) and ICOs included just more than a dozen participants. They represented a variety of constituencies, including Bitcoin developers, Ethereum developers, technologists, the cryptocurrency exchange community, legacy institutional investors, cryptocurrency investment, miners, entrepreneurs, and venture capitalists._
 
 This salon was produced and facilitated by:
-* Christopher Allen ([@ChristopherA](http://twitter.com/ChristopherA)), Principal Architect - Blockstream; Host #RebootingWebOfTrust
+* Christopher Allen ([@ChristopherA](http://twitter.com/ChristopherA)), Principal Architect - Blockstream; Host [#RebootingWebOfTrust](http://www.WebOfTrust.info)
 
 Participants included:
 * Angus Champion de Crespigny ([@anguschampion](https://twitter.com/anguschampion))
