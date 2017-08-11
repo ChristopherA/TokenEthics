@@ -13,15 +13,15 @@ I&#39;ve seen lots of discussions on the legality of ICOs &amp; other forms of t
 
 ### Some early questions…
 
-* When does ongoing creator compensation cross over from legitimately &amp; ethical incentive for innovation? How long? What %?
+* When does ongoing creator compensation cross over from being a legitimate &amp; ethical incentive for innovation? How long? What %?
 
-* We presume it can be ethical to make money. But when does creating proper incentives cross over to rent seeking?
+* We presume it can be ethical to make money, but when does creating proper incentives cross over to rent seeking?
 
 * When does pre-mining cross over from being ethically acceptable to being  unethical?
 
 * When does legitimate promotion ethically cross over into pump &amp; dump?
 
-* Can HODL by early adopters cross over to being unethical?
+* Can HODLing (holding) by early adopters cross over to being unethical?
 
 * Is it even possible to design systems that are more ethically principled, or can every design be abused?
 
@@ -121,7 +121,7 @@ The following quotes have been reordered, organized and slightly cleaned up from
 
 "We're able to create a model that manages that regulation … how can we create frameworks for ICOs and ECU token sales that can make regulatory intervention … constantly irrelevant?
 
-"Yes, markets will eventually thrash things out—but information is unequal, power is unequal, time scales are unequal. There is some utility to having designs that either cause friction or have the properties that we would like them to have, because I may not survive to when markets will equalize."
+"Yes, markets will eventually thrash things out — but information is unequal, power is unequal, time scales are unequal. There is some utility to having designs that either cause friction or have the properties that we would like them to have, because I may not survive to when markets will equalize."
 
 #### About Token Speculators
 
@@ -137,7 +137,7 @@ Obviously, the discussion of #TokenEthics remains open, but the following ideas 
 
 2. Token sales should have benefits for the entire community commons being created, not just the issuers and investors.
 
-3. Token sales should have more iterative stages, like traditional investments--not raise everything in one big funding.
+3. Token sales should have more iterative stages, like traditional investments — not raise everything in one big funding.
 
 4. Lists of bad practices and best practices might be good next steps.
 
@@ -169,7 +169,7 @@ _The following additional open questions were raised during the discussions at t
 
 - Should only users, not investors, be buying initial tokens?
 
-- What methods can we have smaller, more restrictive iterative rounds of ICO sale?
+- By what methods can we have smaller, more restrictive iterative rounds of ICO sale?
 
 - How do we design tokens for the long term, to be resilient and long-lived for the community that invests in it?
 
@@ -178,52 +178,53 @@ _The following additional open questions were raised during the discussions at t
 
 ### Potential Token Ethics Best Practices
 
-*Drawn from the #TokenEthics Salon in late July, 2017 with some from support from advance readings sent to all participants including Patrick E. Murphy's "Enlightened Marketing Ethics", Continuation's "Optimal Token Sales", Vitalik Buterin's "Analyzing Token Sale Models", and Christopher Allen's "A Revised 'Ostrom’s Design Principles for Collective Governance of the Commons'". This list has not been fully reviewed or agreed upon by all the #TokenEthics Salon participants but instead are offered as a starting point for future discussions.*
+*Drawn from the #TokenEthics Salon in late July, 2017 with some from support from advance readings sent to all participants including Patrick E. Murphy's "Enlightened Marketing Ethics", Continuation's "Optimal Token Sales", Vitalik Buterin's "Analyzing Token Sale Models", and Christopher Allen's "A Revised 'Ostrom’s Design Principles for Collective Governance of the Commons'". This list has not been fully reviewed or agreed upon by all the #TokenEthics Salon participants but instead is offered as a starting point for future discussions.*
 
 #### Disclosure Best Practices
 
-* Provide enough information to support informed decisions. Consider both the information needs of the consumer of the tokens and the investor.
+* Provide enough information to support informed decisions; consider both the information needs of the consumer of the tokens and the investor.
 * Represent your token honestly and accurately.
 * Detail how the token will be used in the network.
 * Suggest what the value of the token will be after a token offering.
 * Reveal what percentage of all tokens the token offering represents.
-   * Do not run uncapped sales, which makes it impossible to calculate token quantity.
-* Request external feedback to prevent self-deception. Allow time for such feedback.
+   * Do not run uncapped sales; they make it impossible to calculate token quantity.
+* Request external feedback to prevent self-deception; allow time for such feedback.
 * Respond to knowledgeable feedback about your tokens, networks, and systems.
 
 #### Financial Best Practices
 
 * Keep initial sales small and limited.
 * Raise funds in iterative stages, not in one big funding.
-   - Do not raise more funding than is needed for continued development. Token issuers are also investors, and should have aligned risks.
+   - Do not raise more funding than is needed for continued development; token issuers are also investors and should have aligned risks.
 * Release funds to developers in iterative stages.
-* Ideally tokens issued should be available to all stakeholders, not only investors.
-   * However, when you allow consumers of the tokens to participate in an issuance, permit only investments correspondent with what the consumers can afford to lose.
+* Make tokens available to all stakeholders, not just investors, if possible.
+   * Limit investments to what the consumers can afford to lose when you allow consumers of a token to participate in an issuance.
 * Maintain the same ethics in token sales that you would maintain for any financial offering.
 
 #### Product Best Practices
 
-* Don't issue tokens solely to obtain investment — offer a minimal viable product, or at least a route to the same.
-   * Do not stage an token issuance based solely on an idea.
+* Offer a minimal viable product, or at least a route to the same.
+   * Do not issue tokens solely to obtain investment.
+   * Do not issue tokens based solely on an idea.
 * Commit to delivery of your product.
 
 #### Token Best Practices
 
 * Create tokens that benefit the commons being created.
    * Consider using a lens of [Ostrom's Design Principles](http://www.lifewithalacrity.com/2015/11/a-revised-ostroms-design-principles-for-collective-governance-of-the-commons-.html) to evaluate if the token benefits all stakeholders.
-* Do not create a token that's purely for investment, with no or little other benefit. It is often better to accept the underlying crypto asset instead.
+   * Do not create a token that's purely for investment, with no or little other benefit; it is often better to accept the underlying crypto asset instead.
 * Release the balance of the tokens when the network goes live.
    * Do not maintain a large store of unreleased tokens, unless they will be released programmatically.
 * Be aware of how your token might impact the larger blockchain ecosystems.
 * Consider whether all tokens should be illiquid until initial product release.
 * Consider whether developer tokens should be illiquid until initial product release.
-* Consider whether issuance of new tokens after the initial offering should be permitted if there is already sufficient liquidity in the system.
+* Consider whether issuance of new tokens should be permitted after the initial offering if there is already sufficient liquidity in the system.
 
 #### Operations Best Practices
 
 * Say what you intend to do, and do what you said.
-  * Tokens should have ongoing utility for years after their issuance — you need to be able to demonstrate that they will not only increase in value for investors, but also in utility for consumers.
-* Support token consumer interests before token investor interests — investor should be taking the burden of risks.
+* Demonstrate that tokens will increase in value for investors *and* in utility for consumers; they should have ongoing use for years after their issuance.
+* Support token consumer interests before token investor interests; investors should be taking the burden of risks.
 * Practice informed consent during operations.
 * Continue to disclose information during operations.
 
