@@ -31,6 +31,11 @@ Additional contributors:
 * Shannon Appelcline ([@Applecline](https://twitter.com/Applecline)) - editor
 * Vlad Zamfir ([@VladZamfir](https://twitter.com/VladZamfir)) - advance reading
 
+Sponsors:
+
+* Greylock Partners
+* Blockstream
+
 ## The Transcript
 
 _This is a Chatham-rule transcript of the Token Ethics discussion from July 26, 2017. It was professionally transcribed, and then edited for obvious errors afterward, but as with any transcription of this type, you should only consider it 98% reflective of what was actually said. Some things have been elided from this transcript for privacy reasons, to preserve the Chatham rule._
