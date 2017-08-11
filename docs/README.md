@@ -1,10 +1,18 @@
 # ![#TokenEthics Logo](./images/tokenethics_logo.png)
 
+# News!
+
+<div style="border-style: solid;">
+Our next #TokenEthics Salon will be a Virtual one using Zoom, on Wednesday August 30th at 12pm ET (9am PT, 16:00 GMT). Sign up to Announcements List (bottom of this page) for more details.
+</div>
+
 ## History of #TokenEthics
 
 ### How it started…
 
-<blockquote class="twitter-tweet" data-lang="en" hide_thread="true" data-conversation="none"><p lang="en" dir="ltr">I&#39;ve seen lots of discussions on the legality of ICOs &amp; other forms of token issuance. But how about more discussions on ethical principles?</p>&mdash; Christopher Allen (@ChristopherA) <a href="https://twitter.com/ChristopherA/status/885606036379287552">July 13, 2017</a></blockquote>
+<blockquote class="twitter-tweet" data-lang="en" hide_thread="true" data-conversation="none"><p lang="en" dir="ltr">
+I&#39;ve seen lots of discussions on the legality of ICOs &amp; other forms of token issuance. But how about more discussions on ethical principles?</p>&mdash; Christopher Allen (@ChristopherA) <a href="https://twitter.com/ChristopherA/status/885606036379287552">July 13, 2017</a>
+</blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### Some early questions…
