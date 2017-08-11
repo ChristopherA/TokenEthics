@@ -28,7 +28,7 @@ Participants included:
 
 Additional contributors:
 * Anthony Weeks ([@Weeksonian](https://twitter.com/Weeksonian)) - graphic recorder
-* Shannon Appelcline ([@Applecline](https://twitter.com/Applecline)) - editor
+* Shannon Appelcline ([@Appelcline](https://twitter.com/Appelcline)) - editor
 * Vlad Zamfir ([@VladZamfir](https://twitter.com/VladZamfir)) - advance reading
 
 Sponsors:
