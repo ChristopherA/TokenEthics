@@ -1,8 +1,8 @@
 # ![#TokenEthics Logo](./images/tokenethics_logo.png)
 
-# News!
+## News!
 
-<div style="border-style: solid;">
+<div style="border-style: solid; border-width: medium;">
 Our next #TokenEthics Salon will be a Virtual one using Zoom, on Wednesday August 30th at 12pm ET (9am PT, 16:00 GMT). Sign up to Announcements List (bottom of this page) for more details.
 </div>
 
