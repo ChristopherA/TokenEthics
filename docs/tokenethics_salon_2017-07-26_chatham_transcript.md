@@ -1,3 +1,7 @@
+---
+title: Token Ethics Chatham Transcript
+layout: post
+---
 # Token Ethics Chatham Transcript
 
 ## Salon producer/facilitator, participants & contributors
