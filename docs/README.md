@@ -227,9 +227,9 @@ _The following additional open questions were raised during the discussions at t
 * Practice informed consent during operations.
 * Continue to disclose information during operations.
 
-### Chatham-Style transcript
+### Transcript
 
-*(Coming Soon)*
+A full transcript of our conversions, edited as per Chatham-rule,  is [here](./tokenethics_salon_2017-07-26_chatham_transcript).
 
 ### Salon producer/facilitator, participants & contributors
 
@@ -325,4 +325,3 @@ Total costs: ~$2100
 <script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
 <!--End mc_embed_signup-->
 </div>
-
