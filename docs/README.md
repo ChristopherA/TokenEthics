@@ -1,4 +1,4 @@
-# #TokenEthics
+# ![#TokenEthics Logo](./images/tokenethics_logo.png)
 
 ## History of #TokenEthics
 
@@ -27,7 +27,7 @@ We are using the Twitter hashtag [#TokenEvents](https://twitter.com/search?q=%23
 
 ## Events
 
-### The first face-to-face Salon on July 26, 2017
+### ![Our first face-to-face Salon on 26 Jul 2017 Logo](./images/tokenethics_salon_26_july_2017_logo.png)
 
 <blockquote class="twitter-tweet" data-lang="en" hide_thread="true" data-conversation="none"><p lang="en" dir="ltr">If anyone is interested in having F2F evening roundtable in SF Bay Area on the topic of <a href="https://twitter.com/hashtag/tokenethics?src=hash">#tokenethics</a> and design (not legality!) let me know.</p>&mdash; Christopher Allen (@ChristopherA) <a href="https://twitter.com/ChristopherA/status/885646222844846080">July 13, 2017</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -114,7 +114,7 @@ Total costs: ~$2100
 <div id="mc_embed_signup">
 <form action="//TokenEthics.us16.list-manage.com/subscribe/post?u=770bd4e56d05b0c99808a4b59&amp;id=e754fd939f" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
-	<h3>Subscribe to the #TokenEthics Announcements list…</h3>
+    <h3>Subscribe to the #TokenEthics Announcements list…</h3>
 <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
 <div class="mc-field-group">
 	<label for="mce-EMAIL">Email Address  <span class="asterisk">*</span>
@@ -146,9 +146,9 @@ Total costs: ~$2100
 		<div class="response" id="mce-error-response" style="display:none"></div>
 		<div class="response" id="mce-success-response" style="display:none"></div>
 	</div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_770bd4e56d05b0c99808a4b59_e754fd939f" tabindex="-1" value=""></div>
-    <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
-    </div>
+	<div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_770bd4e56d05b0c99808a4b59_e754fd939f" tabindex="-1" value=""></div>
+	<div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+	</div>
 </form>
 </div>
 <script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
