@@ -147,33 +147,34 @@ Obviously, the discussion of #TokenEthics remains open, but the following ideas 
 
 _The following additional open questions were raised during the discussions at the Salon._
 
-Is the current system of financial investment rigged against regular people? Do ICOs counter that?
+- Is the current system of financial investment rigged against regular people? Do ICOs counter that?
 
-Should the regulations be different for token issuance?
+- Should the regulations be different for token issuance?
 
-How can we reveal the value of a token during an ICO?
+- How can we reveal the value of a token during an ICO?
 
-Where's the line between tokens required to run the system and those that are speculative?
+- Where's the line between tokens required to run the system and those that are speculative?
 
-Generally, how can we be very explicit about the company issuing a token and its future prospects?
+- Generally, how can we be very explicit about the company issuing a token and its future prospects?
 
-If an ICO is just an idea, when do you talk about fraud?
+- If an ICO is just an idea, when do you talk about fraud?
 
-Does the fact that there are early holders of a token make it less useful?
+- Does the fact that there are early holders of a token make it less useful?
 
-What happens when a service gets priced out for users because of speculation by token holders?
+- What happens when a service gets priced out for users because of speculation by token holders?
 
-What is the minimum viable product for an ICO?
+- What is the minimum viable product for an ICO?
 
-How do you support both speculators and users of a system?
+- How do you support both speculators and users of a system?
 
-Should only users, not investors, be buying initial tokens?
+- Should only users, not investors, be buying initial tokens?
 
-What methods can we have smaller, more restrictive iterative rounds of ICO sale?
+- What methods can we have smaller, more restrictive iterative rounds of ICO sale?
 
-How do we design tokens for the long term, to be resilient and long-lived for the community that invests in it?
+- How do we design tokens for the long term, to be resilient and long-lived for the community that invests in it?
 
-A libertarian ideal might be described as "There is no place for morality and ethics on the topic of Tokens Ethics. People should be responsible for their choices, no one forced you to buy a token.” Given that framing, can we still design better systems?
+- A libertarian ideal might be described as "There is no place for morality and ethics on the topic of Tokens Ethics. People should be responsible for their choices, no one forced you to buy a token.” Given that framing, can we still design better systems?
+
 
 ### Potential Token Ethics Best Practices
 
