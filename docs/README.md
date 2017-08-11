@@ -178,7 +178,7 @@ _The following additional open questions were raised during the discussions at t
 
 ### Potential Token Ethics Best Practices
 
-*Drawn from the #TokenEthics Salon in late July, 2017 with some from support from advance readings sent to all participants including Patrick E. Murphy's "Enlightened Marketing Ethics", Continuation's "Optimal Token Sales", Vitalik Buterin's "Analyzing Token Sale Models", and Christopher Allen's "A Revised 'Ostrom’s Design Principles for Collective Governance of the Commons'". This list has not been fully reviewed or agreed upon by all the #TokenEthics Salon participants but instead is offered as a starting point for future discussions.*
+*Drawn from the #TokenEthics Salon in late July, 2017 with some from support from [advance readings](https://docs.google.com/document/d/1rFwP_0LvAwo17ZI80jn_vE68NjrNxKrBSRPRuTEz678) sent to all participants including Patrick E. Murphy's "[Enlightened Marketing Ethics](https://image.slidesharecdn.com/bgiedupersuasioninfluence-100206173145-phpapp02/95/tactics-of-persuasion-influence-bgiedu-47-728.jpg?cb=1267756651)", Continuation's "[Optimal Token Sales](http://continuations.com/post/161776542685/optimal-token-sales)", Vitalik Buterin's "[Analyzing Token Sale Models](http://vitalik.ca/general/2017/06/09/sales.html)", and Christopher Allen's "[A Revised 'Ostrom’s Design Principles for Collective Governance of the Commons'](http://www.lifewithalacrity.com/2015/11/a-revised-ostroms-design-principles-for-collective-governance-of-the-commons-.html)". This list has not been fully reviewed or agreed upon by all the #TokenEthics Salon participants but instead is offered as a starting point for future discussions.*
 
 #### Disclosure Best Practices
 
@@ -235,7 +235,7 @@ A full transcript of our conversions, edited as per Chatham-rule,  is [here](./t
 ### Salon producer/facilitator, participants & contributors
 
 This salon was produced and facilitated by:
-* Christopher Allen ([@ChristopherA](http://twitter.com/ChristopherA)), Principal Architect - Blockstream; Host #RebootingWebOfTrust
+* Christopher Allen ([@ChristopherA](http://twitter.com/ChristopherA)), Principal Architect - Blockstream; Host [#RebootingWebOfTrust](http://www.WebOfTrust.com)
 
 Participants included:
 * Angus Champion de Crespigny ([@anguschampion](https://twitter.com/anguschampion))
