@@ -45,19 +45,19 @@ We used a *[Shared Google Doc on #TokenEthics](https://docs.google.com/document/
 
 ### What communities were represented at the first Salon?
 
-![Who is Here? List](./images/tokenethics_salon_2017-07-25_who_is_here.jpg)
+![Who is Here? List](./images/tokenethics_salon_2017-07-26_who_is_here.jpg)
 
 ### What were the guidelines for our conversation?
 
 <blockquote style="border-style: solid;"><div style="margin: 5px 5px 5px 5px;"><font size="+1">&ldquo;The <b>Chatham House Rule</b> reads as follows: When a meeting, or part thereof, is held under the <b>Chatham House Rule</b>, participants are free to use the information received, but neither the identity nor the affiliation of the speaker(s), nor that of any other participant, may be revealed.&rdquo;</font><p><a  href="https://www.chathamhouse.org/about/chatham-house-rule">Chatham House Rule | Chatham House</a><br/><span style="white-space:nowrap"><cite>https://www.chathamhouse.org/about/chatham-house-rule</cite></span></p></div></blockquote>
 
-![#TokenEthics Guidelines List](./images/tokenethics_salon_2017-07-25_guidelines.jpg)
+![#TokenEthics Guidelines List](./images/tokenethics_salon_2017-07-26_guidelines.jpg)
 
 ### What did we talk about?
 
-![#TokenEthics Salon Graphic Recording ](./images/tokenethics_salon_2017-07-25_graphic_recording.jpg)
+![#TokenEthics Salon Graphic Recording ](./images/tokenethics_salon_2017-07-26_graphic_recording.jpg)
 
-(See <a href="./images/tokenethics_salon_2017-07-25_graphic_recording.jpg" target="new"> full-sized version</a>)
+(See <a href="./images/tokenethics_salon_2017-07-26_graphic_recording.jpg" target="new"> full-sized version</a>)
 
 ### Key Insights & Quotes
 
@@ -256,7 +256,7 @@ Additional contributors:
 * Shannon Appelcline ([@Applecline](https://twitter.com/Applecline)) - editor
 * Vlad Zamfir ([@VladZamfir](https://twitter.com/VladZamfir)) - advance reading
 
-![#TokenEthics Salon Participants](./images/tokenethics_salon_2017-07-25_participants.jpg)
+![#TokenEthics Salon Participants](./images/tokenethics_salon_2017-07-26_participants.jpg)
 
 ### Who financially sponsored the first Salon event?
 
