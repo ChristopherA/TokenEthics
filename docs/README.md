@@ -1,6 +1,8 @@
 # ![#TokenEthics Logo](./images/tokenethics_logo.png)
 
-<div style="border-style: solid; border-width: medium; padding: 5px;"><b>NEWS:</b> Our next #TokenEthics Salon will be held online using <a href="https://www.zoom.us/">Zoom Video Conferencing</a> , on Wednesday August 30th at 12pm ET (9am PT, 16:00 GMT). Sign up to Announcements List (bottom of this page) for invite!</div>
+<div style="border-style: solid; border-width: medium; padding: 5px;"><b>NEWS:</b> We just complete our first virtual salon on Wednesday August 30th — preliminary <a href="https://docs.google.com/document/d/15u8uuMLUPJytfbqkkYf8QTyODPD4LVSEFXxzpWJ_9Mc/edit?usp=sharing">shared notes</a> are available, more results to be posted next week. Consensus of participants was **“All ICO white papers should contain (or link to) an ethical code of conduct”** (<a href="https://twitter.com/ChristopherA/status/902950402525609984">retweet!</a>)
+
+We plan to have another virtual salon in September, timed for Asian & Australian participation. Sign up to <a href="http://eepurl.com/cYcb3j>Announcements List</a> for invite!</div>
 
 ## History of #TokenEthics
 
