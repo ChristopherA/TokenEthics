@@ -1,8 +1,8 @@
 # ![#TokenEthics Logo](./images/tokenethics_logo.png)
 
-<div style="border-style: solid; border-width: medium; padding: 5px;"><b>NEWS:</b> We just complete our first virtual salon on Wednesday August 30th — preliminary <a href="https://docs.google.com/document/d/15u8uuMLUPJytfbqkkYf8QTyODPD4LVSEFXxzpWJ_9Mc/edit?usp=sharing">shared notes</a> are available, more results to be posted next week. Consensus of participants was <b>“All ICO white papers should contain (or link to) an ethical code of conduct”</b> (<a href="https://twitter.com/ChristopherA/status/902950402525609984">retweet!</a>)<br/><br/>
+<div style="border-style: solid; border-width: medium; padding: 5px;"><b>NEWS:</b> We just complete our first virtual salon on Wednesday August 30th — <a href="https://docs.google.com/document/d/15u8uuMLUPJytfbqkkYf8QTyODPD4LVSEFXxzpWJ_9Mc/edit?usp=sharing">shared notes</a> are available, more results to be posted next week. Consensus of participants was <b>“All ICO white papers should contain (or link to) an ethical code of conduct”</b> (<a href="https://twitter.com/ChristopherA/status/902950402525609984">retweet!</a>)<br/><br/>
 
-We plan to have another virtual salon in September, timed for Asian & Australian participation. Sign up to <a href="http://eepurl.com/cYcb3j">Announcements List</a> for invite!</div>
+We plan to have another virtual salon in late October, timed for Asian & Australian participation. Sign up to <a href="http://eepurl.com/cYcb3j">Announcements List</a> for invite!</div>
 
 ## History of #TokenEthics
 
